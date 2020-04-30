@@ -1,6 +1,6 @@
 import socket
 
-IP_Address = input("please Enter IP to listen on: ")
+IP = input("please Enter IP to listen on: ")
 port_ls = int(input("please enter Port to listen on: "))
 
 
